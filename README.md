@@ -1,3 +1,2 @@
 # RA2111003010142_PPSPROJECT2
-Find the type of triangle from the users value
-
+This program simulates a simple word game where players must enter words that follow a specific pattern, with the game ending when a player fails to do so.
